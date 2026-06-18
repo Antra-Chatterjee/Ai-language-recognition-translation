@@ -32,8 +32,10 @@ Designed to run easily in **Google Colab**.
 
 ---
 
-**📖 Example**
+## 💬 Example
+```text
 Enter a text: Bonjour
 Detected Language: French
 Enter target language code (e.g., en, hi, fr): en
 Translated Text: Hello
+
